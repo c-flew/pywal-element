@@ -1,0 +1,16 @@
+{
+    "accent-color": "color2",
+    "primary-color": "color1",
+    "warning-color": "color1",
+    "sidebar-color": "color0",
+    "roomlist-background-color": "color0",
+    "roomlist-text-color": "color7",
+    "roomlist-text-secondary-color": "color4",
+    "roomlist-highlights-color": "color3",
+    "roomlist-separator-color": "color0",
+    "timeline-background-color": "color0",
+    "timeline-text-color": "color7",
+    "timeline-text-secondary-color": "color5",
+    "timeline-highlights-color": "color0",
+    "reaction-row-button-selected-bg-color": "color6"
+}
